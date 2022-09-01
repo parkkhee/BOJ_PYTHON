@@ -1,3 +1,3 @@
 # BOJ_PYTHON
 
-# coding study
+# Coding study
